@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".sublime-grunt.cache",
+				"la1.sublime-project",
+				"Gruntfile.js",
+				"package.json",
+				"tsconfig.json"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"typings"
+			],
+			"path": "D:\\LBK_ARQ_SPA\\public\\la1",
+		}
+	],
+	"SublimeLinter":
+    {
+        "linters":
+        {
+            "jscs": {
+                "excludes": [
+                    "D:\\LBK_ARQ_SPA\\public\\la1\\test\\karma.conf.js"
+                ]
+            },
+			"jshint": {
+                "excludes": [
+                    "D:\\LBK_ARQ_SPA\\public\\la1\\test\\karma.conf.js"
+                ]
+            }
+        }
+    }
+}

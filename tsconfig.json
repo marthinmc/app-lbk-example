@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "module": "amd",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "preserveConstEnums": true,
+    "pretty": true,
+    "removeComments": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "ES5"
+  },
+  "compileOnSave": true,
+  "buildOnSave": false,
+  "exclude": [
+    "node_modules",
+    "typings"
+  ],
+  "filesGlob": [
+    "**/*.ts"
+  ],
+  "files": [
+    "components/index.ts",
+    "config/config-env/la1.de.env.cfg.ts",
+    "config/config-env/la1.ei.env.cfg.ts",
+    "config/config-env/la1.env.cfg.ts",
+    "config/config-env/la1.pr.env.cfg.ts",
+    "config/config-env/la1.pu.env.cfg.ts",
+    "config/la1.common.cfg.ts",
+    "index.ts",
+    "la1.main.component.ts",
+    "la1.main.config.ts",
+    "la1.main.module.ts",
+    "la1.main.routes.ts",
+    "la1.main.ts",
+    "shared/la1.utilities.service.ts",
+    "test/karma.conf.ts",
+    "test/mocks.ts"
+  ]
+}
