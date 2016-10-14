@@ -43,7 +43,8 @@ module.exports = function(grunt) {
         src: ['**/*.ts']
       },
       options: {
-        compiler: 'C:/LBKIT/npm/node_modules/typescript/bin/tsc',
+        //compiler: 'C:/LBKIT/npm/node_modules/typescript/bin/tsc',
+        compiler: './node_modules/typescript/bin/tsc',
         // To recompile all the files each time for NodeJS
         fast: 'never',
         verbose: false

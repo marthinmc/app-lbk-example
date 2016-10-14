@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package con",
+		"selected_items":
+		[
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"searc",
+				"File: Search Files"
+			],
+			[
+				"typescr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"packagec",
+				"Package Control: Create Package File"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Create Package File"
+			],
+			[
+				"pa",
+				"Package Control: Create Package File"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 239.0,
+		"history":
+		[
+			"window.project_data()",
+			"window.project_file_name()",
+			"window.project_data()",
+			"window.extract_variables()",
+			"window.project_data()",
+			"window.project_file_name()",
+			"window.extract_variables()",
+			"window[0].project_file_name()",
+			"window.project_file_name()",
+			"window()[0].project_file_name()",
+			"window.project_data()",
+			"self.window.project_data()",
+			"sublime.message_dialog(\"Error: No existe el directorio \")",
+			"sublime.window()[0].project_file_name()",
+			"dir(window.project())",
+			"window.project().fileName()",
+			"print ($project_path)",
+			"$project_path",
+			"print %PATH",
+			"print %PATH%",
+			"print $PATH",
+			"os.environ['PATH']",
+			"print {folder}",
+			"print ${folder}",
+			"${folder}",
+			"print(os.environ['PYTHONPATH'])",
+			"print _PATH_",
+			"$PATH",
+			"print ($project_path)",
+			"print $project_path",
+			"print {project_path}",
+			"print ${project_path:${folder}}",
+			"${project_path}",
+			"${project_path:${folder}}",
+			"where linter",
+			"where jslint",
+			"pip"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/LBK_ARQ_SPA/public/la1"
+	],
+	"file_history":
+	[
+		"/C/git-repos/app-lbk-example/.gitignore",
+		"/C/git-repos/app-lbk-example/README.md",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/todo/data/TWiki/WikiName.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/10 oct/ResetPassword.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/10 oct/ChangePassword.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/10 oct/oopsattention.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/10 oct/prueba/TWikiRegistration.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/enviar/viewbottombar.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewtopbar.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/view.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/view.twikinet.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/oops.pattern.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/view.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/oops.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/LocalSite.cfg",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/enviar/view.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewbottombar.pattern.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/LocalLib.cfg",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/Twiki.conf",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/oopsaccessdenied.lbkarq.tmpl",
+		"/C/Users/MMUNOZ~1.CAB/AppData/Local/Temp/7zE4BBFB695/oopsaccessdenied.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/messages.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/Structurelbbk/structurelbbk.py",
+		"/C/LBKIT/lbk-front-config/sublime/templates/typescript/structure.json",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/viewtopbar.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Desktop/viewtopbar.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/metodo typescript.py",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/metodo Javascript.py",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/Structurelbbk/Main.sublime-menu",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewleftbar.lbkarq.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/view.pattern.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/Main.sublime-menu",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/Package Control.py",
+		"/C/LBKIT/lbk-front-config/sublime/install/Packages/User/Structurelbbk.sublime-settings",
+		"/C/LBK_ARQ_SPA/public/l69/shared/l69.servicio.service.ts",
+		"/C/LBKIT/lbk-front-config/sublime/templates/javascript/services/service.js.template",
+		"/C/LBKIT/lbk-front-config/sublime/templates/typescript/services/service.ts.template",
+		"/C/LBKIT/lbk-front-config/sublime/templates/typescript/service.json",
+		"/C/LBKIT/lbk-front-config/sublime/templates/javascript/service.json",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/Structurelbbk.sublime-settings",
+		"/C/LBKIT/lbk-front-config/sublime/templates/structure.json",
+		"/C/LBKIT/lbk-front-config/sublime/install/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/LBK_ARQ_SPA/public/l70/tsconfig.json",
+		"/C/LBKIT/lbk-front-config/sublime/templates/typescript/structure/Gruntfile.js.template",
+		"/C/LBK_ARQ_SPA/public/l70/Gruntfile.js",
+		"/C/LBKIT/lbk-front-config/sublime/templates/typescript/structure/tsconfig.json.template",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/Liberbank - Grunt - TypeScript Linter.sublime-build",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/Liberbank - Grunt - TypeScript Compile.sublime-build",
+		"/C/LBK_ARQ_SPA/public/l70/l70.main.config.ts",
+		"/C/LBKIT/lbk-front-config/sublime/linters-config/tslint.json",
+		"/C/LBK_ARQ_SPA/public/l70/package.json",
+		"/C/LBKIT/lbk-front-config/sublime/templates/typescript/structure/package.json.template",
+		"/C/LBK_ARQ_SPA/public/lqv/package.json",
+		"/C/LBK_ARQ_SPA/public/l70/l70.sublime-project",
+		"/C/LBK_ARQ_SPA/public/l70/l70.main.config.js",
+		"/C/LBK_ARQ_SPA/public/tsconfig.json",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/WebLeftBar.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/WebHome.txt",
+		"/C/LBK_ARQ_SPA/public/l69/Gruntfile.js",
+		"/C/pruebatsc/tsconfig.json",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/en MaqVirtual/WebLeftBar.txt",
+		"/C/LBKIT/lbk-front-config/sublime/templates/javascript/structure/app.sublime-project.template",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/en MaqVirtual/WebHome.txt",
+		"/C/pruebatsc/tsconfig_old.json",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/subir a servidor lbk/WebPreferences.txt",
+		"/C/LBK_ARQ_SPA/public/lts/lts.main.component.ts",
+		"/C/pruebatsc/l50/tsconfig.json",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/LBK_ARQ_SPA/public/lkd/components/compo-uno/lkd.compo-uno.component.js",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Default.sublime-keymap",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Default (Windows).sublime-keymap",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/LBK_ARQ_SPA/public/lkd/components/compo-uno/lkd.compo-uno.view.html",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/new_templates.py",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/pane.py",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/side_bar.py",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/quick_panel.py",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/package control/open_in_browser.py",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/LBK_ARQ_SPA/public/lar/components/lar-code-tree/lar.code-tree.controller.js",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewtopbar.pattern.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebIndex.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebAtom.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebLeftBar.txt,v",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewleftbar.pattern.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewleftbar.twikinet.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewtopbar.twikinet.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewtopbar.skinmartin.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/colors.css",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebLeftBar.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/es.po",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebLeftBarWebsList.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/style.css",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/TWikiNetSkinColorSettings.txt",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/view.skinmartin.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewtopbar.skinmartino.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/view.skinmartino.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebPreferences.txt",
+		"/C/Users/m.munoz.cabanillas/Desktop/twiki.conf.txt",
+		"/C/Users/m.munoz.cabanillas/.VirtualBox/VBoxSVC.log",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Structurelbbk/structurelbbk.py",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/viewnotopbar.pattern.tmpl",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebPreferences.lease",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/twikipruebas/WebPreferences.txt,v",
+		"/C/LBKIT/lbk-front-config/sublime_old/templates/components/controller.js.template",
+		"/C/LBKIT/lbk-front-config/sublime/templates/structure/main.component.js.template",
+		"/C/Users/m.munoz.cabanillas/VirtualBox VMs/Win 2012 Server R2/Logs/VBox.log",
+		"/C/LBKIT/lbk-front-config/sublime/sublimetext.bat",
+		"/C/LBK_ARQ_SPA/public/la1/components/vista1/la1.vista1.controller.js",
+		"/C/LBK_ARQ_SPA/public/la1/components/vista1/la1.vista1.controller.spec.js",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/lqp.ccc.component.ts",
+		"/C/LBK_ARQ_SPA/public/lmm/prueba.ts",
+		"/C/Users/m.munoz.cabanillas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/LBKIT/lbk-front-config/sublime-local/sublimetext.bat",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/ramaalvaro/templates/structure/test/mocks.js.template",
+		"/C/Users/m.munoz.cabanillas/Documents/Borrar/ramaalvaro/templates/structure/test/karma.conf.ALVARO.js",
+		"/C/LBK_ARQ_SPA_BASE/public/la1_bocanegra/Gruntfile - Copy.js",
+		"/C/Users/m.munoz.cabanillas/Documents/sublime-logs/sublime_lbk.log",
+		"/C/LBK_ARQ_SPA/public/lmm/test/karma.conf.js",
+		"/C/LBKIT/lbk-front-config/sublime-local/batch/opcion 1/create_nm.bat",
+		"/C/LBK_ARQ_SPA_BASE/public/ltf/config/martin.txt",
+		"/C/Users/m.munoz.cabanillas/OneDrive - Accenture/Liberbank/test-install.bat"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\m.munoz.cabanillas\\Documents\\Borrar\\twikipruebas"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Usted esta aquí",
+			"password chan",
+			"utf",
+			"ISO-8859-15",
+			"iso",
+			"open",
+			"create_directory",
+			"validate_name",
+			"CAMEL_CASE_REPLACE_RE",
+			"controller_name",
+			"CAMEL_CASE_TEST_RE",
+			"ok_cancel_dialog",
+			"create_output_panel",
+			"show_quick_panel",
+			"width",
+			"twikinetTopToolBar ",
+			"patternLeftBar",
+			"patternTopBarContents",
+			"toptoolbar",
+			"twikinetLogo",
+			"viewtopbar",
+			"topicaction",
+			"logo_twiki",
+			"controller_name",
+			"_CONTROLLERNAME_",
+			"martin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Liberbank - Grunt - TypeScript Compile.sublime-build",
+	"project": "la1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"lib\\TWiki\\Users.pm"
+			],
+			[
+				"wikiname",
+				"data\\TWiki\\WikiName.txt"
+			],
+			[
+				"twikiregistra",
+				"data\\Arquitectura\\TWikiRegistration.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
