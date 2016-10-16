@@ -17,8 +17,8 @@
   "compileOnSave": true,
   "buildOnSave": false,
   "exclude": [
-    "node_modules",
-    "typings"
+    "./node_modules",
+    "./typings"
   ],
   "files": [
     "components/index.ts",
