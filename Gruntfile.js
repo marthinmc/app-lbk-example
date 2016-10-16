@@ -40,7 +40,7 @@ module.exports = function(grunt) {
           tsconfig: './tsconfig.json',
           overwriteFilesGlob: true,
         },
-        src: ['**/*.ts']
+        src: ['**/*.ts', '!node_modules/**']
       },
       options: {
         //compiler: 'C:/LBKIT/npm/node_modules/typescript/bin/tsc',
