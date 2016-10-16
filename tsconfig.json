@@ -20,9 +20,6 @@
     "node_modules",
     "typings"
   ],
-  "filesGlob": [
-    "**/*.ts"
-  ],
   "files": [
     "components/index.ts",
     "config/config-env/la1.de.env.cfg.ts",
