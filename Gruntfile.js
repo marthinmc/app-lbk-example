@@ -52,7 +52,8 @@ module.exports = function(grunt) {
     },
     tslint: {
       options: {
-          configuration: 'C:/LBKIT/lbk-front-config/sublime/linters-config/tslint.json'
+          //configuration: 'C:/LBKIT/lbk-front-config/sublime/linters-config/tslint.json'
+          configuration: '../linters/tslint.json'
       },
       local: {
           src: ['**/*.ts', '!node_modules/**/*.ts', '!typings/**/*.ts']
