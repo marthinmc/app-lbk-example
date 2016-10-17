@@ -47,6 +47,7 @@ module.exports = function(grunt) {
         compiler: './node_modules/typescript/bin/tsc',
         // To recompile all the files each time for NodeJS
         fast: 'never',
+        failOnTypeErrors: false,
         verbose: false
       }
     },
@@ -79,4 +80,5 @@ module.exports = function(grunt) {
   grunt.registerTask('test', ['karma:dev']);
   grunt.registerTask('tscompile', ['ts:compile']);
   grunt.registerTask('tslinting', ['tslint:local']);
+  grunt.registerTask('jenkins_ts', ['ts:compile', 'karma:continuous']);
 };
