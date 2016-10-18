@@ -30,7 +30,9 @@ module.exports = function(grunt) {
         '*.js'
       ],
       options: {
-        jshintrc: 'C:/LBKIT/lbk-front-config/sublime/linters-config/.jshintrc',
+        //jshintrc: 'C:/LBKIT/lbk-front-config/sublime/linters-config/.jshintrc',
+        jshintrc: '../linters/.jshintrc',
+        force: true,
         reporter: require('jshint-stylish')
       }
     },
@@ -54,7 +56,8 @@ module.exports = function(grunt) {
     tslint: {
       options: {
           //configuration: 'C:/LBKIT/lbk-front-config/sublime/linters-config/tslint.json'
-          configuration: '../linters/tslint.json'
+          configuration: '../linters/tslint.json',
+          force: true
       },
       local: {
           src: ['**/*.ts', '!node_modules/**/*.ts', '!typings/**/*.ts']
@@ -80,5 +83,5 @@ module.exports = function(grunt) {
   grunt.registerTask('test', ['karma:dev']);
   grunt.registerTask('tscompile', ['ts:compile']);
   grunt.registerTask('tslinting', ['tslint:local']);
-  grunt.registerTask('jenkins_ts', ['ts:compile', 'karma:continuous']);
+  grunt.registerTask('jenkins_ts', ['tslint:local', 'ts:compile', 'karma:continuous']);
 };
